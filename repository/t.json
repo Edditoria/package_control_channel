@@ -2654,9 +2654,8 @@
 			]
 		},
 		{
-			"name": "Tmux 3 Syntax Highlight",
+			"name": "Tmux Syntax",
 			"details": "https://github.com/Edditoria/tmux-sublime",
-			"author": "Edditoria",
 			"labels": ["language syntax"],
 			"releases": [
 				{
